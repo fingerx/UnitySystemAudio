@@ -58,3 +58,21 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/SystemAudio/MyUnitySystemAudio/Logs
+/SystemAudio/MyUnitySystemAudio/obj
+/SystemAudio/MyUnitySystemAudio/Library
+/SystemAudio/PluginSource/x64/Release/SystemAudio.ipdb
+/SystemAudio/PluginSource/x64/Release/SystemAudio.lib
+/SystemAudio/PluginSource/x64/Release/SystemAudio.log
+/SystemAudio/PluginSource/x64/Release/SystemAudio.obj
+/SystemAudio/PluginSource/x64/Release/SystemAudio.pch
+/SystemAudio/PluginSource/x64/Release/SystemAudio.pdb
+/SystemAudio/PluginSource/x64/Release/SystemAudio.vcxproj.FileListAbsolute.txt
+/SystemAudio/PluginSource/x64/Release/vc142.pdb
+/SystemAudio/PluginSource/x64/Release/SystemAudio.tlog
+/SystemAudio/PluginSource/x64/Release/dllmain.obj
+/SystemAudio/PluginSource/x64/Release/pch.obj
+/SystemAudio/PluginSource/x64/Release/SystemAudio.Build.CppClean.log
+/SystemAudio/PluginSource/x64/Release/SystemAudio.dll.recipe
+/SystemAudio/PluginSource/x64/Release/SystemAudio.exp
+/SystemAudio/PluginSource/x64/Release/SystemAudio.iobj
